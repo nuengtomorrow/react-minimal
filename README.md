@@ -1,12 +1,16 @@
 # React-Minimal
 
 ## Creating an App
+> npm
 ```sh
 npx create-react-min my-app
+npm install
 ```
+>yarn
 
 ```sh
 yarn create react-min my-app
+yarn install
 ```
 
 It will create a directory called my-app inside the current folder.
