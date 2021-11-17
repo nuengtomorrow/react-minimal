@@ -2,11 +2,11 @@
 
 ## Creating an App
 ```sh
-npx create-react-minimal my-app
+npx create-react-min my-app
 ```
 
 ```sh
-yarn create react-minimal my-app
+yarn create react-min my-app
 ```
 
 It will create a directory called my-app inside the current folder.
