@@ -14,7 +14,7 @@ yarn install
 ```
 
 It will create a directory called my-app inside the current folder.
-Inside that directory, it will generate the initial project structure and install the transitive dependencies:
+Inside that directory, it will generate the initial project structure.
 ```sh
 my-app
 ├─ README.md
