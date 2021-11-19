@@ -23,7 +23,6 @@ my-app
 │  ├─ favicon.ico
 │  ├─ index.html
 │  ├─ logo192.png
-│  ├─ logo512.png
 │  └─ manifest.json
 └─ src
    ├─ App.js
